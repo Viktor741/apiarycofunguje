@@ -1,2 +1,0 @@
-# apiarycofunguje
-Created with CodeSandbox
